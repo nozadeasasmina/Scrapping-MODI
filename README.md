@@ -1,5 +1,5 @@
 # Scrapping-MODI
-Scrapping-Modi adalah project untuk melakukan scrapping data dari situ resmi Minerba One Data Indonesia (MODI) \n
+Scrapping-Modi adalah project untuk melakukan scrapping data dari situ resmi Minerba One Data Indonesia (MODI)
 Project ini mengumpulkan data company profile dan data perizinan secara otomatis dengan memasukan kode perusahaan.
 Kode perusahaan didapat pada web MODI https://modi.esdm.go.id/.
 scrapping menggunakan `selenium` dan sudah dalam mode headless.
