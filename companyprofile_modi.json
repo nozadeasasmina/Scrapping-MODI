@@ -1,0 +1,184 @@
+[
+    {
+        "ID": 53,
+        "Profil": {
+            "Kode Perusahaan": "53",
+            "Nama Perusahaan": "ADARO INDONESIA",
+            "Jenis Badan Usaha": "PT",
+            "No. Akte": "",
+            "Tgl. Akte": "",
+            "Pemegang Saham/Pemilik": "PT ALAM TRI ABADI"
+        },
+        "Perizinan": [
+            {
+                "No": "1",
+                "Jenis\nPerizinan": "IUPK",
+                "Nomor\nPerizinan": "11/1/IUP/PMA/2022",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "1300003032014132",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "23.942,00",
+                "Tgl\nMulai\nBerlaku": "2022-09-13",
+                "Tgl\nBerakhir": "2032-10-01",
+                "Tahapan CNC": "CNC",
+                "Lokasi": "KAB. TABALONG\nKAB. BALANGAN"
+            }
+        ]
+    },
+    {
+        "ID": 1608,
+        "Profil": {
+            "Kode Perusahaan": "1608",
+            "Nama Perusahaan": "BUKIT ASAM TBK",
+            "Jenis Badan Usaha": "PT",
+            "No. Akte": "",
+            "Tgl. Akte": "",
+            "Pemegang Saham/Pemilik": "BUKIT ASAM TBK"
+        },
+        "Perizinan": [
+            {
+                "No": "1",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "159/1/IUP/PMDN/2020",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "2116003032014002",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "7.621,00",
+                "Tgl\nMulai\nBerlaku": "2020-01-01",
+                "Tgl\nBerakhir": "2030-12-31",
+                "Tahapan CNC": "CNC-2",
+                "Lokasi": "KAB. MUARA ENIM\nKAB. LAHAT"
+            },
+            {
+                "No": "2",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "307/1/IUP/PMDN/2019",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "3116033032014011",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "2.423,00",
+                "Tgl\nMulai\nBerlaku": "2019-08-22",
+                "Tgl\nBerakhir": "2035-09-07",
+                "Tahapan CNC": "CNC-1",
+                "Lokasi": "KAB. MUARA ENIM"
+            },
+            {
+                "No": "3",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "99/1/IUP/PMDN/2019",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "3113733032014013",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "2.935,00",
+                "Tgl\nMulai\nBerlaku": "2019-03-08",
+                "Tgl\nBerakhir": "2029-02-16",
+                "Tahapan CNC": "CNC-9",
+                "Lokasi": "KOTA SAWAHLUNTO"
+            },
+            {
+                "No": "4",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "1/1/IUP-PB/PMDN/2019",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "3116033032014059",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "4.500,00",
+                "Tgl\nMulai\nBerlaku": "2019-05-27",
+                "Tgl\nBerakhir": "2027-04-09",
+                "Tahapan CNC": "CNC-2",
+                "Lokasi": "KAB. MUARA ENIM"
+            },
+            {
+                "No": "5",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "251/1/IUP/PMDN/2019",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "2116003032014003",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "2.866,00",
+                "Tgl\nMulai\nBerlaku": "2019-07-02",
+                "Tgl\nBerakhir": "2029-08-29",
+                "Tahapan CNC": "CNC-2",
+                "Lokasi": "KAB. MUARA ENIM\nKAB. LAHAT"
+            },
+            {
+                "No": "6",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "486/1/IUP/PMDN/2021",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "3114023032014005",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "18.230,00",
+                "Tgl\nMulai\nBerlaku": "2010-04-22",
+                "Tgl\nBerakhir": "2035-06-09",
+                "Tahapan CNC": "CNC-8",
+                "Lokasi": "KAB. INDRAGIRI HULU"
+            },
+            {
+                "No": "7",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "487/1/IUP/PMDN/2021",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "3116033032014012",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "22.937,00",
+                "Tgl\nMulai\nBerlaku": "2010-04-13",
+                "Tgl\nBerakhir": "2035-09-07",
+                "Tahapan CNC": "CNC-1",
+                "Lokasi": "KAB. MUARA ENIM"
+            }
+        ]
+    },
+    {
+        "ID": 3973,
+        "Profil": {
+            "Kode Perusahaan": "3973",
+            "Nama Perusahaan": "KALTIM PRIMA COAL",
+            "Jenis Badan Usaha": "PT",
+            "No. Akte": "",
+            "Tgl. Akte": "",
+            "Pemegang Saham/Pemilik": "PT Bumi Resources, TBK"
+        },
+        "Perizinan": [
+            {
+                "No": "1",
+                "Jenis\nPerizinan": "IUPK",
+                "Nomor\nPerizinan": "90/1/IUP/PMA/2021",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "1300003032014099",
+                "Komoditas": "Batubara",
+                "Luas(ha)": "61.543,00",
+                "Tgl\nMulai\nBerlaku": "2021-12-31",
+                "Tgl\nBerakhir": "2031-12-31",
+                "Tahapan CNC": "CNC",
+                "Lokasi": "KAB. KUTAI TIMUR"
+            }
+        ]
+    },
+    {
+        "ID": 12289,
+        "Profil": {
+            "Kode Perusahaan": "12289",
+            "Nama Perusahaan": "ABADI MINERAL RESOURCES",
+            "Jenis Badan Usaha": "PT",
+            "No. Akte": "",
+            "Tgl. Akte": "",
+            "Pemegang Saham/Pemilik": "TIO, EFFENDY TIOS"
+        },
+        "Perizinan": [
+            {
+                "No": "1",
+                "Jenis\nPerizinan": "IUP",
+                "Nomor\nPerizinan": "91201004713510004",
+                "Tahapan\nKegiatan": "OPERASI PRODUKSI",
+                "Kode\nWIUP": "2363025332020001",
+                "Komoditas": "Batu Gunung Quarry Besar",
+                "Luas(ha)": "949,00",
+                "Tgl\nMulai\nBerlaku": "2023-03-07",
+                "Tgl\nBerakhir": "2029-01-08",
+                "Tahapan CNC": "CNC",
+                "Lokasi": "KAB. KOTABARU"
+            }
+        ]
+    }
+]
